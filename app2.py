@@ -1,15 +1,3 @@
-"""
-Heart Disease Detection System - CardioAI
-Full Streamlit Application
-Team: Atul Krishna, Raza Ansari, Pulkit Goyal, Saurabh Kumar Jha
-
-FIXES APPLIED:
-1. PDF: all special/unicode chars replaced with ASCII-safe equivalents (no more font error)
-2. Doctor booking: session_state used properly so booking form stays open without clearing prediction
-3. Confusion Matrix: uses REAL values from your model screenshot (not computed from random data)
-4. Classification Report: uses your EXACT real metrics (97% accuracy)
-"""
-
 import streamlit as st
 import numpy as np
 import joblib
