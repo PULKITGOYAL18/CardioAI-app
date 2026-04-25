@@ -67,7 +67,7 @@ LIME (Local Interpretable Model-Agnostic Explanations) is used to explain predic
 
 ## 🌐 Live Demo
 
- https://cardioai-app-2.onrender.com/
+ https://cardioai-app-1.onrender.com/
 
 ---
 
